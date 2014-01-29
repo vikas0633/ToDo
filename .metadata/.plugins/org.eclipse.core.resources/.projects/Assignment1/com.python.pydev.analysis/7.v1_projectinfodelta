@@ -1,0 +1,10 @@
+INSTUPtest_num_buses
+/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/test_num_buses.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1&&2|7|2|1
+TestNumBuses=1
+test_NumBuses_example_1=3
+test_NumBuses_example_2=4
+test_NumBuses_example_3=5
+test_NumBuses_example_4=6
+test_NumBuses_example_5=7
+test_num_buses=2

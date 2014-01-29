@@ -1,0 +1,11 @@
+INSTUPtest_stock_price_summary
+/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/test_stock_price_summary.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1&&2|7|2|1&&2|8|2|1
+test_StockPriceSummary_example_6=8
+test_stock_price_summary=2
+test_StockPriceSummary_example_2=4
+test_StockPriceSummary_example_3=5
+test_StockPriceSummary_example_4=6
+test_StockPriceSummary_example_5=7
+TestStockPriceSummary=1
+test_StockPriceSummary_example_1=3

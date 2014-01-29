@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/vgupta/Desktop/script/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+test_stock_price_summary|0|/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/test_stock_price_summary.py
+a1|0|/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/a1.py
+test_swap_k|0|/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/test_swap_k.py
+remove_shared|0|/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/remove_shared.py
+test_num_buses|0|/Users/vgupta/Desktop/study/19_crafting_codes/Assignement1/test_num_buses.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+5=test_stock_price_summary
+8=TestNumBuses
+1=a1
+4=test_swap_k
+6=TestSwapK
+2=remove_shared
+7=TestStockPriceSummary
+3=test_num_buses
+-- END DICTIONARY
+-- START TREE 1
+5
+num|1|num_buses!10@
+rem|1|remove_shared!18@
+sto|1|stock_price_summary!10@
+swa|1|swap_k!10@
+tes|3|TestNumBuses!25@TestSwapK!33@TestStockPriceSummary!41@
+-- END TREE
+-- START TREE 2
+1
+tes|17|test_SwapK_example_2!6&34@test_StockPriceSummary_example_6!7&42@test_StockPriceSummary_example_1!7&42@test_NumBuses_example_3!8&26@test_SwapK_example_5!6&34@test_SwapK_example_1!6&34@test_SwapK_example_3!6&34@test_StockPriceSummary_example_5!7&42@test_NumBuses_example_2!8&26@test_SwapK_example_4!6&34@test_NumBuses_example_5!8&26@test_StockPriceSummary_example_4!7&42@test_NumBuses_example_1!8&26@test_SwapK_example_6!6&34@test_NumBuses_example_4!8&26@test_StockPriceSummary_example_3!7&42@test_StockPriceSummary_example_2!7&42@
+-- END TREE
