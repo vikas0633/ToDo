@@ -1,0 +1,11 @@
+
+public class functions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Static methods belong to a class while non-static methods belong to objects
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+
+
+
+public class try_catch {
+    public static void main(String[] args) {
+        int[] arr = new int[10];
+        try{
+        	System.out.println(arr[9001]);
+        }
+        cactch {
+        	
+        }
+    }
+}
